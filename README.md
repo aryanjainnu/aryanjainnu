@@ -11,6 +11,7 @@ I'm **Aryan Jain**, a Computer Science student at Northwestern University in Eva
 **Other Technical Projects**
 - [**Venmo Request Scheduler**](https://github.com/mikeluvin/venmo-scheduler) won Best Project Idea at WildHacks NU Hackathon
 - [**Browser Privacy**](https://github.com/aryanjainnu/dataprivacy) is a Browser Extension that redacts sensitive text from potential social media posts
+- [**LSTM Stock Model**](https://github.com/aryanjainnu/stock_lstm) uses a Long Short-Term Memory, a type of recurrent neural networks, to train, test, and predict stock prices
 
 <!--
 **aryanjainnu/aryanjainnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
