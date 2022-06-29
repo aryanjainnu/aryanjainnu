@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Aryan Jain**, a Computer Science student at Northwestern University in Evanston, Illinois. Before Northwestern, I grew up in Bangkok, Thailand where I worked for just over a year as a Software Engineer at GoPomelo, APAC's Premier Google Cloud Partner, where I streamlined over 25 projects building various software solutions! 
+I'm **Aryan Jain**, a Computer Science student at Northwestern University in Evanston, Illinois. I have over a year of experience as a Software Engineer at GoPomelo, APAC's Premier Google Cloud Partner, where I streamlined over 25 projects building various software solutions! 
 
 **I'm currently working on** 
 - Continuing to build a, now acquired, data-driven startup, Authentic Media Ascension
