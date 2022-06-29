@@ -3,7 +3,7 @@
 I'm **Aryan Jain**, a Computer Science student at Northwestern University in Evanston, Illinois. Before Northwestern, I grew up in Bangkok, Thailand where I worked for just over a year as a Software Engineer at GoPomelo, APAC's Premier Google Cloud Partner, where I streamlined over 25 projects building various software solutions! 
 
 **I'm currently working on** 
-- Continuing to build a data-drive startup, Authentic Media Ascension, after an acquisition
+- Continuing to build a, now acquired, data-driven startup, Authentic Media Ascension
 - Security Research under Prof. V.S Subrahmanian in the Northwestern NSAIL Lab where I use ML to determine CVE attacks
 - Quantitative Developer Internship at Country Group Holdings, where I am designing and building a gradient-boosted decision tree algorithm
 - My own Personal Portfolio Website!
