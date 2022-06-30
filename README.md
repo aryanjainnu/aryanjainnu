@@ -7,6 +7,7 @@ I'm **Aryan Jain**, a Computer Science student at Northwestern University in Eva
 - Security Research under Prof. V.S Subrahmanian in the Northwestern NSAIL Lab where I use ML to determine CVE attacks
 - Quantitative Developer Internship at Country Group Holdings, where I am designing and building a gradient-boosted decision tree algorithm
 - My own Personal Portfolio Website!
+- 100 Days of Code where I am coding a different mini project everyday to familiarize myself with a broader set of tools, system designs, and libraries
 
 **Other Technical Projects**
 - [**Venmo Request Scheduler**](https://github.com/mikeluvin/venmo-scheduler) won Best Project Idea at WildHacks NU Hackathon
