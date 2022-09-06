@@ -5,8 +5,8 @@ I'm **Aryan Jain**, a Computer Science student at Northwestern University in Eva
 **I'm currently working on** 
 - Continuing to build a, now acquired, data-driven startup, Authentic Media Ascension
 - Security Research under Prof. V.S Subrahmanian in the Northwestern NSAIL Lab where I use ML to determine CVE attacks
-- Quantitative Developer Internship at Country Group Holdings, where I am designing and building a gradient-boosted decision tree algorithm
 - My own Personal Portfolio Website!
+- Winning my Fantasy Formula 1 League using optimization 
 
 **Other Technical Projects**
 - [**Venmo Request Scheduler**](https://github.com/mikeluvin/venmo-scheduler) won Best Project Idea at WildHacks NU Hackathon
